@@ -13,7 +13,7 @@ import { SearchBar } from './SearchBar';
 export const TitleBar = () => {
 
   return (
-    <nav className=' d-flex justify-content-between align-items-center px-1' style={{ height: "48px", backgroundColor: "#E6ECF3" }}>
+    <nav className=' d-flex justify-content-between align-items-center px-4' style={{ height: "48px", backgroundColor: "#E6ECF3" }}>
 
       {/* LeftBar */}
       <img src={TeamsSVG} alt="" />
