@@ -1,0 +1,78 @@
+
+
+[
+    {
+        "chat-header":"Serena mentioned you",
+        "chat-sub-header":"Chat with Serena",
+        "message" :"Game Plan - Hey all, let’s get all the design...",
+        "time":"09:00 am",
+        "unseen" : true,
+        "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar1.svg"
+    },
+    {
+        "chat-header":"Krystal sent a request",
+        "chat-sub-header":"Northwind Traders > Marketing",
+        "message" :"Game Plan - Hey all, let’s get all the design...",
+        "time":"11:00 am",
+        "unseen" : false,
+         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar2.svg"
+    },
+    {
+        "chat-header":"Charlotte, Babak replied",
+        "chat-sub-header":"Northwind Traders > Marketing",
+        "message" :"Game Plan - Hey all, let’s get all the design...",
+        "time":"08:00 pm",
+        "unseen" : true,
+         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar3.svg"
+    },
+    {
+        "chat-header":"Sarah +2 reacted to your",
+        "chat-sub-header":"Chat with Reta, Miguel, +3",
+        "message" :"Game Plan - Hey all, let’s get all the design...",
+        "time":"09:00 pm",
+        "unseen" : false,
+         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar4.svg"
+    }
+    ,
+    {
+        "chat-header":"Babak mentioned you",
+        "chat-sub-header":"Chat with Babak and Charlotte",
+        "message" :"Game Plan - Hey all, let’s get all the design...",
+        "time":"Yesterday",
+        "unseen" : false,
+         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar5.svg"
+    }
+    ,
+    {
+        "chat-header":"Cassandra shared a",
+        "chat-sub-header":"channel with you",
+        "message" :"Game Plan - Hey all, let’s get all the design...",
+        "time":"Monday",
+        "unseen" : false,
+         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar6.svg"
+    }
+
+    ,
+    {
+        "chat-header":"Laurence added you to ",
+        "chat-sub-header":"Northwind Traders",
+        "message" :"Game Plan - Hey all, let’s get all the design...",
+        "time":"12:06 pm",
+        "unseen" : true,
+         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar7.svg"
+    }
+
+    ,
+    {
+        "chat-header":"Missed call from Serena",
+        "chat-sub-header":"Northwind Traders > Marketing",
+        "message" :"Game Plan - Hey all, let’s get all the design...",
+        "time":"05:00 pm",
+        "unseen" : false,
+         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar.svg"
+    }
+
+
+
+    
+]

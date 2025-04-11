@@ -14,7 +14,7 @@ import Tab8 from '../assets/SVGs/AppBar-SVGs/Tab-8.svg';
 export const AppBar = () =>{
 
     return(
-        <ul className='' style={{backgroundColor :"#E6ECF3"}}>
+        <ul className='' style={{backgroundColor :"#E6ECF3" , height : "100dvh"}}>
             <li className="appbar-item"><img src={Tab} alt="" /></li>
             <li className="appbar-item"><img src={Tab1} alt="" /></li>
             <li className="appbar-item"><img src={Tab2} alt="" /></li>

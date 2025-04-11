@@ -1,3 +1,9 @@
 @import '../../node_modules/bootstrap/dist/css/bootstrap.css';
 @import './searchbar.css';
 @import './appbar.css';
+@import './activefeedchanneltab.css';
+
+
+body{
+    overflow: hidden;
+}
