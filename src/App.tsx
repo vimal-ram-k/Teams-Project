@@ -1,10 +1,9 @@
+import { ActivityFeed } from "./pages/ActivityFeed"
 
 function App() {
 
   return (
-    <>
-    <h1>Microsoft Teams Project</h1>
-    </>
+   <ActivityFeed />
   )
 }
 

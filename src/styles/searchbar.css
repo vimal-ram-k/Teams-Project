@@ -1,0 +1,9 @@
+
+
+.search-bar{
+
+}
+
+.search-bar:has(input:focus) .searchbar-sub-section {
+    display: none;
+  }
