@@ -1,7 +1,7 @@
-import { ActiveFeedChannelTab } from "../components/ActiveFeedChannelTab"
 import { AppBar } from "../components/AppBar"
 import { LeftRail } from "../components/LeftRail"
 import { TitleBar } from "../components/TitleBar"
+import { RatingCus } from "../MatrialUI/Rating"
 
 
 export const ActivityFeed =() =>{
@@ -13,6 +13,7 @@ export const ActivityFeed =() =>{
        <div className=" d-flex">
         <AppBar />
        <LeftRail />
+       <RatingCus />
        </div>
         </>
     )
