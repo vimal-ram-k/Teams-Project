@@ -1,9 +1,10 @@
-import { ActivityFeed } from "./pages/ActivityFeed"
+
+import { AppRoutes } from "./routes/routes"
 
 function App() {
 
   return (
-   <ActivityFeed />
+    <AppRoutes />
   )
 }
 
