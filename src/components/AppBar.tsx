@@ -70,7 +70,7 @@ export const AppBar = () => {
             {
                 appbaritems.map((item, index) => {
                     return (
-                        <li  id={item.name} className="appbar-item"  onClick={handleSwitchTabs}><Link to={`/${item.name}`} className=' d-flex align-items-center justify-content-between'>
+                        <li  id={item.name+index} className="appbar-item"  onClick={handleSwitchTabs}><Link to={`/${item.name}`} className=' d-flex align-items-center justify-content-between'>
                             {
                                 item.name === currentTab &&
                                 <img src={SelectedBar} alt="" className='' />
