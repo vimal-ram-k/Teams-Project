@@ -7,7 +7,7 @@
         "message" :"Game Plan - Hey all, let’s get all the design...",
         "time":"09:00 am",
         "unseen" : true,
-        "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar1.svg"
+        "profile":"/chat-avators/Avatar1.svg"
     },
     {
         "chat-header":"Krystal sent a request",
@@ -15,7 +15,7 @@
         "message" :"Game Plan - Hey all, let’s get all the design...",
         "time":"11:00 am",
         "unseen" : false,
-         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar2.svg"
+         "profile":"/chat-avators/Avatar2.svg"
     },
     {
         "chat-header":"Charlotte, Babak replied",
@@ -23,7 +23,7 @@
         "message" :"Game Plan - Hey all, let’s get all the design...",
         "time":"08:00 pm",
         "unseen" : true,
-         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar3.svg"
+         "profile":"/chat-avators/Avatar3.svg"
     },
     {
         "chat-header":"Sarah +2 reacted to your",
@@ -31,7 +31,7 @@
         "message" :"Game Plan - Hey all, let’s get all the design...",
         "time":"09:00 pm",
         "unseen" : false,
-         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar4.svg"
+         "profile":"/chat-avators/Avatar4.svg"
     }
     ,
     {
@@ -40,7 +40,7 @@
         "message" :"Game Plan - Hey all, let’s get all the design...",
         "time":"Yesterday",
         "unseen" : false,
-         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar5.svg"
+         "profile":"/chat-avators/Avatar5.svg"
     }
     ,
     {
@@ -49,7 +49,7 @@
         "message" :"Game Plan - Hey all, let’s get all the design...",
         "time":"Monday",
         "unseen" : false,
-         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar6.svg"
+         "profile":"chat-avators/Avatar6.svg"
     }
 
     ,
@@ -59,7 +59,7 @@
         "message" :"Game Plan - Hey all, let’s get all the design...",
         "time":"12:06 pm",
         "unseen" : true,
-         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar7.svg"
+         "profile":"/chat-avators/Avatar7.svg"
     }
 
     ,
@@ -69,7 +69,7 @@
         "message" :"Game Plan - Hey all, let’s get all the design...",
         "time":"05:00 pm",
         "unseen" : false,
-         "profile":"src/assets/SVGs/LeftRail-SVGs/chat-avators/Avatar.svg"
+         "profile":"/chat-avators/Avatar.svg"
     }
 
 
